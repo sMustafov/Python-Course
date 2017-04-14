@@ -1,0 +1,6 @@
+import turtle
+
+turtle.speed('slowest')
+for i in range(0,4):
+    turtle.forward(100)
+    turtle.right(90)
